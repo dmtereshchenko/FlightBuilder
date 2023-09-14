@@ -1,8 +1,5 @@
-package com.gridline.testing;
+package com.gridnine.testing;
 
-import com.gridnine.testing.Flight;
-import com.gridnine.testing.FlightBuilder;
-import com.gridnine.testing.FlightService;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
